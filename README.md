@@ -23,20 +23,6 @@
 </div>
 
 ###
-
-<!-- <img src="https://raw.githubusercontent.com/OT75/OT75/output/snake.svg" alt="Snake animation" /> -->
-
-###
-
-<h2 align="center">Contact me through</h2>
-
-###
-
-<div align="center">
-  <img height="200" src="https://giffiles.alphacoders.com/116/11664.gif"  />
-</div>
-
-
 ###
 
 <div align="left">
@@ -79,6 +65,19 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="30" alt="dart logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="30" alt="flutter logo"  />
+</div>
+
+
+<!-- <img src="https://raw.githubusercontent.com/OT75/OT75/output/snake.svg" alt="Snake animation" /> -->
+
+###
+
+<h2 align="center">Contact me through</h2>
+
+###
+
+<div align="center">
+  <img height="200" src="https://giffiles.alphacoders.com/116/11664.gif"  />
 </div>
 
 ###
