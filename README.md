@@ -68,7 +68,7 @@
 </div>
 
 
-<!-- <img src="https://raw.githubusercontent.com/OT75/OT75/output/snake.svg" alt="Snake animation" /> -->
+<img src="https://raw.githubusercontent.com/OT75/OT75/output/snake.svg" alt="Snake animation" /> 
 
 ###
 
