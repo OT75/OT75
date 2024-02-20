@@ -70,9 +70,7 @@
 
 ###
 
-<div align="center">
-  <img height="150" src="https://64.media.tumblr.com/3d1533f160eee90d5438587a21d10043/952ac9098d50e241-6e/s540x810/d42ac766e4b3d7b733b042930155e6a387d4eef2.gif"  />
-</div>
+<h2 align="center">Contact me through</h2>
 
 ###
 
