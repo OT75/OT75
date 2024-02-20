@@ -66,11 +66,17 @@
 
 ###
 
- <!-- <img src="https://raw.githubusercontent.com/OT75/OT75/output/snake.svg" alt="Snake animation" /> -->
+<!-- <img src="https://raw.githubusercontent.com/OT75/OT75/output/snake.svg" alt="Snake animation" /> -->
 
 ###
 
 <h2 align="center">Contact me through</h2>
+
+###
+
+<div align="center">
+  <img height="200" src="https://giffiles.alphacoders.com/116/11664.gif"  />
+</div>
 
 ###
 
