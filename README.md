@@ -12,6 +12,31 @@
 
 <h3 align="left">Languages and Tools:</h3>
 
+
+
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=OT75&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://streak-stats.demolab.com?user=OT75&locale=en&mode=daily&theme=radical&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=OT75&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=8&theme=radical&hide_border=false" height="150" alt="languages graph"  />
+</div>
+
+###
+
+<!-- <img src="https://raw.githubusercontent.com/OT75/OT75/output/snake.svg" alt="Snake animation" /> -->
+
+###
+
+<h2 align="center">Contact me through</h2>
+
+###
+
+<div align="center">
+  <img height="200" src="https://giffiles.alphacoders.com/116/11664.gif"  />
+</div>
+
+
 ###
 
 <div align="left">
@@ -54,28 +79,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="30" alt="dart logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="30" alt="flutter logo"  />
-</div>
-
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=OT75&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://streak-stats.demolab.com?user=OT75&locale=en&mode=daily&theme=radical&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=OT75&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=8&theme=radical&hide_border=false" height="150" alt="languages graph"  />
-</div>
-
-###
-
-<!-- <img src="https://raw.githubusercontent.com/OT75/OT75/output/snake.svg" alt="Snake animation" /> -->
-
-###
-
-<h2 align="center">Contact me through</h2>
-
-###
-
-<div align="center">
-  <img height="200" src="https://giffiles.alphacoders.com/116/11664.gif"  />
 </div>
 
 ###
