@@ -77,7 +77,7 @@
 ###
 
 <div align="center">
-  <img height="200" src="https://giffiles.alphacoders.com/116/11664.gif"  />
+  <img height="200" width ="350" src="https://giffiles.alphacoders.com/116/11664.gif"  />
 </div>
 
 ###
