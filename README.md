@@ -5,7 +5,7 @@
 
 ###
 
-<p align="left">I am a Senior-2 student majoring in Computer Engineering at Ain Shams University's Faculty of Engineering. I possess a profound enthusiasm for trailblazing technological advancements. Proficient in programming languages like C, C++, and Python, I have specialized knowledge in Machine Learning, Deep Learning, Computer Vision, Embedded Systems, and Software Development. Through my experiences, I have gained practical expertise and a versatile skill set, ready to spearhead impactful innovations within the industry.</p>
+<p align="left">I am a fresh graduate majoring in Computer Engineering at Ain Shams University's Faculty of Engineering. I possess a profound enthusiasm for trailblazing technological advancements. Proficient in programming languages like C, C++, and Python, I have specialized knowledge in Machine Learning, Deep Learning, Computer Vision, Embedded Systems, and Software Development. Through my experiences, I have gained practical expertise and a versatile skill set, ready to spearhead impactful innovations within the industry.</p>
 
 ###
 
