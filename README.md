@@ -88,7 +88,7 @@
   <a href="https://www.linkedin.com/in/omar-tarek-52b261255/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="150" height="50" alt="linkedin logo"  />
   </a>
-  <a href=""https://www.github.com/OT75/.Spy_ target="_blank">
+  <a href="https://github.com/OT75/.Spy_" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="150" height="50" alt="discord logo"  />
   </a>
 </div>
