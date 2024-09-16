@@ -1,7 +1,7 @@
 <h2 align="left">Hi 👋! I am Omar Tarek.</h2>
 
 
-<h3 align="left">Computer Engineering Student</h3>
+<h3 align="left">Computer Engineer</h3>
 
 ###
 
