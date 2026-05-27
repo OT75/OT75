@@ -1,12 +1,13 @@
 <div align="center">
 
 ```
- ██████╗ ███╗   ███╗ █████╗ ██████╗     ████████╗ █████╗ ██████╗ ███████╗██╗  ██╗
-██╔═══██╗████╗ ████║██╔══██╗██╔══██╗    ╚══██╔══╝██╔══██╗██╔══██╗██╔════╝██║ ██╔╝
-██║   ██║██╔████╔██║███████║██████╔╝       ██║   ███████║██████╔╝█████╗  █████╔╝ 
-██║   ██║██║╚██╔╝██║██╔══██║██╔══██╗       ██║   ██╔══██║██╔══██╗██╔══╝  ██╔═██╗ 
-╚██████╔╝██║ ╚═╝ ██║██║  ██║██║  ██║       ██║   ██║  ██║██║  ██║███████╗██║  ██╗
- ╚═════╝ ╚═╝     ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝       ╚═╝   ╚═╝  ╚═╝╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝
+ ██████╗ ███╗   ███╗ █████╗ ██████╗      █████╗ ██████╗ ██████╗ ███████╗██╗     ██╗    ██╗ █████╗ ██╗  ██╗ █████╗ ██████╗ 
+██╔═══██╗████╗ ████║██╔══██╗██╔══██╗    ██╔══██╗██╔══██╗██╔══██╗██╔════╝██║     ██║    ██║██╔══██╗██║  ██║██╔══██╗██╔══██╗
+██║   ██║██╔████╔██║███████║██████╔╝    ███████║██████╔╝██║  ██║█████╗  ██║     ██║ █╗ ██║███████║███████║███████║██████╔╝
+██║   ██║██║╚██╔╝██║██╔══██║██╔══██╗    ██╔══██║██╔══██╗██║  ██║██╔══╝  ██║     ██║███╗██║██╔══██║██╔══██║██╔══██║██╔══██╗
+╚██████╔╝██║ ╚═╝ ██║██║  ██║██║  ██║    ██║  ██║██████╔╝██████╔╝███████╗███████╗╚███╔███╔╝██║  ██║██║  ██║██║  ██║██████╔╝
+ ╚═════╝ ╚═╝     ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝    ╚═╝  ╚═╝╚═════╝ ╚═════╝ ╚══════╝╚══════╝ ╚══╝╚══╝ ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝╚═════╝ 
+                                                                                                                          
 ```
 
 ### Computer Engineer · AI Researcher · Builder of Intelligent Systems
@@ -19,7 +20,7 @@
 
 ## 👨‍💻 About Me
 
-I'm **Omar Tarek**, a Computer Engineer from Cairo, now doing my **M.Sc. in Artificial Intelligence** at **BTU Cottbus-Senftenberg, Germany**. I graduated from the **Faculty of Engineering at Ain Shams University**, where I built a strong foundation across systems, software, and machine intelligence.
+I'm **Omar Abdelwahab**, a Computer Engineer from Cairo, now doing my **M.Sc. in Artificial Intelligence** at **BTU Cottbus-Senftenberg, Germany**. I graduated from the **Faculty of Engineering at Ain Shams University**, where I built a strong foundation across systems, software, and machine intelligence.
 
 My work sits at the intersection of **AI research** and **practical engineering** — from training deep learning models to deploying production-ready systems. I thrive on turning complex problems into elegant, working solutions.
 
@@ -115,7 +116,7 @@ My work sits at the intersection of **AI research** and **practical engineering*
 <div align="center">
 
 [![Gmail](https://img.shields.io/badge/Email-omartarek456%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:omartarek456@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Omar_Tarek-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/omar-tarek-52b261255/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Omar_Abdelwahab-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/omar-abdelwahab-52b261255/)
 [![GitHub](https://img.shields.io/badge/GitHub-OT75-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/OT75)
 
 </div>
