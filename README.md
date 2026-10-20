@@ -26,7 +26,7 @@ My work sits at the intersection of **AI research** and **practical engineering*
 
 - 🎓 **B.Sc. Computer Engineering** — Ain Shams University, Cairo, Egypt
 - 🎓 **M.Sc. Artificial Intelligence** — BTU Cottbus-Senftenberg, Germany *(in progress)*
-- 🌍 Currently based in **Cottbus, Brandenburg, Germany**
+- 🌍 Currently based in **Berlin**
 - 🔭 Focused on **Machine Learning, Computer Vision & MLOps**
 - ⚡ Also experienced in **Embedded Systems & Full-Stack Development**
 
